@@ -1,1 +1,11 @@
 # klabs-devops
+- Klabs DevOps projects:
+  - Github
+  - Jira
+  - Jenkins/Github actions
+  - Cloud Providers:
+    - AWS
+    - GCP
+  - Kubernetes
+  - Terraform
+  - Ansible
